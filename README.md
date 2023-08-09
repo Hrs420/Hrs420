@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Cloud Security**
 
-- 🤝 I’m looking for help with **Open Source**
+- 🤝 I’m looking for help with **Open Source development**
 
 - 👨‍💻 All of my projects are available at [https://hrs-portfolio.framer.ai/](https://hrs-portfolio.framer.ai/)
 
