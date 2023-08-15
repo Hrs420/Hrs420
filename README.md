@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+[![Hrs420's GitHub | Topics](https://stats.quine.sh/Hrs420/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hrs420)
+
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on [The Narmada Project](https://github.com/Hrs420/The_Narmada_Project)
