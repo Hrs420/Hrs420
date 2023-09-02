@@ -51,15 +51,15 @@
 
 
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
+</picture> 
 
 <br>
 
-<!-- [![@rishabh3562's Holopin board](https://holopin.io/api/user/board?user=rishabh7406)](https://holopin.io/@dhruvaop) -->
+<!-- [![@Hrs420's Holopin board](https://holopin.io/api/user/board?user=rishabh7406)](https://holopin.io/@dhruvaop) -->
 
 <!-- <h2 align="center">My Portfolio</h2>
  -->
@@ -137,37 +137,28 @@
 <div align="center">
 
 <h2 align="left"🔥 My contribution:</h2>
-<!-- ## 🔥 My contribution: -->
+## 🔥 My contribution: 
 
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh3562&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrs420&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
   
-<!-- [![](https://github-readme-stats.vercel.app/api?username=rishabh3562&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-  [![](https://github-readme-stats.vercel.app/api/top-langs?username=rishabh3562&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Elanza-48) -->
-<h2 align="center">Thanks for Increasing My Visitors Count 🗠:</h2> 
-
-<p align = "center">
-  <img src="https://profile-counter.glitch.me/Hrs420/count.svg" />
-</p>
+[![](https://github-readme-stats.vercel.app/api?username=Hrs420&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+  [![](https://github-readme-stats.vercel.app/api/top-langs?username=Hrs420&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Elanza-48) 
 
 </div>
 
 
-
-
-<!-- <p align="left">
+ <p align="left">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
-</p> -->
+</p> 
 
 
 
 
-<!---
-rishabh3562/rishabh3562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
