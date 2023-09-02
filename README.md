@@ -151,7 +151,7 @@
 <h2 align="center">Thanks for Increasing My Visitors Count 🗠:</h2> 
 
 <p align = "center">
-  <img src="https://profile-counter.glitch.me/rishabh3562/count.svg" />
+  <img src="https://profile-counter.glitch.me/Hrs420/count.svg" />
 </p>
 
 </div>
